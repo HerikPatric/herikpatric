@@ -127,11 +127,6 @@ Repositório em construção, com aplicação desenvolvida em Delphi.
 
 <div align="center">
 
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=HerikPatric&show_icons=true&theme=default&hide_title=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HerikPatric&layout=compact&hide_title=true" width="48%" />
-
 <br><br>
 
 📫 **Contato:**&nbsp; Email: `herikpdsilva@gmail.com` &nbsp;|&nbsp;
